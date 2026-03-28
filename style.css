@@ -1,0 +1,41 @@
+:root {
+    --jio-blue: #005DA4;
+}
+
+.bg-primary {
+    background-color: var(--jio-blue) !important;
+}
+
+.text-primary {
+    color: var(--jio-blue) !important;
+}
+
+.btn-primary {
+    background-color: var(--jio-blue);
+    border: none;
+}
+
+/* Floating WhatsApp Button */
+.whatsapp-float {
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    bottom: 25px;
+    right: 25px;
+    background-color: #25d366;
+    color: #FFF;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 2px 2px 10px rgba(0,0,0,0.2);
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+}
+
+.whatsapp-float:hover {
+    background-color: #128C7E;
+    color: white;
+}
