@@ -1,0 +1,1 @@
+import {NextResponse} from 'next/server'; import {read,write} from '@/lib/store'; export async function DELETE(_:Request,{params}:{params:Promise<{id:string}>}){const{id}=await params;write('services',read('services').filter((x:any)=>x.id!==id));return NextResponse.json({ok:true})}

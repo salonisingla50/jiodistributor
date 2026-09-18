@@ -1,0 +1,1 @@
+export default function Logo(){return <div style={{display:"flex",alignItems:"center",gap:10,fontWeight:900,fontSize:22,color:"#0757ff"}}><span style={{width:42,height:42,borderRadius:"50%",background:"#0757ff",color:"#fff",display:"grid",placeItems:"center",fontSize:17}}>Jio</span><span>Connect</span></div>}

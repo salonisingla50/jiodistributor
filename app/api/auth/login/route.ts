@@ -1,0 +1,1 @@
+import {NextResponse} from 'next/server'; export async function POST(req:Request){const{email,password}=await req.json();if(email==='admin@jio-demo.local'&&password==='admin123')return NextResponse.json({ok:true,role:'admin'});return NextResponse.json({message:'Invalid email or password'},{status:401})}

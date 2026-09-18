@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "name": "Mobile & True 5G",
+    "category": "Connectivity",
+    "description": "Mobile connectivity with prepaid, postpaid, eSIM and True 5G experiences.",
+    "icon": "5G"
+  },
+  {
+    "id": "2",
+    "name": "JioHome",
+    "category": "Home",
+    "description": "Home broadband, Wi-Fi, Live TV and entertainment experiences powered by JioFiber and JioAirFiber.",
+    "icon": "Wi"
+  },
+  {
+    "id": "3",
+    "name": "JioAirFiber",
+    "category": "Home",
+    "description": "High-speed home internet with entertainment and connected-home experiences.",
+    "icon": "A"
+  },
+  {
+    "id": "4",
+    "name": "Entertainment",
+    "category": "Digital",
+    "description": "TV, OTT, music, gaming and digital entertainment experiences across devices.",
+    "icon": "▶"
+  },
+  {
+    "id": "5",
+    "name": "JioBusiness",
+    "category": "Business",
+    "description": "Connectivity, cloud, IoT, security and managed digital solutions for businesses.",
+    "icon": "B"
+  },
+  {
+    "id": "6",
+    "name": "Jio Apps",
+    "category": "Digital",
+    "description": "A broad ecosystem of apps spanning communication, cloud, entertainment and everyday digital needs.",
+    "icon": "J"
+  },
+  {
+    "id": "1789722982924",
+    "name": "fast WIFI ",
+    "description": "fast wifi",
+    "category": "General",
+    "icon": "S",
+    "tag": "NEW"
+  }
+]

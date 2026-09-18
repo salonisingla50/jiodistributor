@@ -1,0 +1,90 @@
+[
+  {
+    "id": "1",
+    "name": "JioBharat V4",
+    "category": "Mobile",
+    "price": "₹899",
+    "oldPrice": "₹1,999",
+    "tag": "POPULAR",
+    "spec": "1.8-inch display • 1000 mAh",
+    "description": "A compact connected phone designed for everyday calling and digital access.",
+    "icon": "B"
+  },
+  {
+    "id": "2",
+    "name": "JioBharat B2",
+    "category": "Mobile",
+    "price": "₹1,399",
+    "oldPrice": "₹2,599",
+    "tag": "VALUE",
+    "spec": "2.4-inch display • 2000 mAh",
+    "description": "A practical connected phone for calls, messaging and entertainment.",
+    "icon": "B"
+  },
+  {
+    "id": "3",
+    "name": "JioPhone Prima 2",
+    "category": "Mobile",
+    "price": "₹2,799",
+    "oldPrice": "₹4,199",
+    "tag": "NEW",
+    "spec": "Smart feature phone",
+    "description": "A smart feature-phone experience with connected apps and services.",
+    "icon": "P"
+  },
+  {
+    "id": "4",
+    "name": "JioTag",
+    "category": "Accessories",
+    "price": "₹1,249",
+    "oldPrice": "₹2,999",
+    "tag": "SMART",
+    "spec": "Smart tracker",
+    "description": "Keep track of the things that matter with a compact connected tracker.",
+    "icon": "T"
+  },
+  {
+    "id": "5",
+    "name": "JioMotive",
+    "category": "Connected",
+    "price": "₹5,499",
+    "oldPrice": "₹11,999",
+    "tag": "CONNECTED",
+    "spec": "Vehicle connected device",
+    "description": "A connected vehicle solution designed to bring useful insights to your drive.",
+    "icon": "M"
+  },
+  {
+    "id": "6",
+    "name": "JioBook",
+    "category": "Computing",
+    "price": "₹12,999",
+    "oldPrice": "₹25,000",
+    "tag": "TRENDING",
+    "spec": "Connected laptop",
+    "description": "An affordable connected laptop experience for study and everyday work.",
+    "icon": "J"
+  },
+  {
+    "id": "7",
+    "name": "JioFind",
+    "category": "Connected",
+    "price": "₹1,499",
+    "oldPrice": "₹4,999",
+    "tag": "NEW",
+    "spec": "Smart tracking",
+    "description": "A connected tracking experience for everyday essentials.",
+    "icon": "F"
+  },
+  {
+    "id": "1789714677669",
+    "name": "jio sim card",
+    "description": "latest",
+    "price": "700",
+    "oldPrice": "",
+    "tag": "NEW",
+    "spec": "Connected device",
+    "icon": "J",
+    "category": "General"
+  }
+]
